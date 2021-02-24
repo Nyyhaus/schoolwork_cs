@@ -12,4 +12,14 @@
 		var5 = false;
 		var6 = 2156703459ul;
 		var7 = 7.2233490653m;
+
+		sbyte var1;
+		long var2;
+		ushort var3;
+		double var4;
+		
+		var1 = -14;
+		var2 = 4509684563l;
+		var3 = 4500;
+		var4 = -1.23534564636d;
 		
